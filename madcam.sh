@@ -43,7 +43,7 @@ echo '
                              NNNNNNNN 
                   ---------------------------------  
                  !!        𝐌ʳ. 𝐦𝓐𝓓 ⓑｈⓐι       !! 
-                  ---------------------------------                  ' | lolcat
+                  ---------------------------------                  ' |
 sleep 5
 clear
 echo "                YOU HAVE TO SETUP NGROK MANUALLY 
